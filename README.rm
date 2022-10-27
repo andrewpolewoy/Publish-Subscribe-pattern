@@ -1,0 +1,7 @@
+Implementation of the Publish-Subscribe pattern
+
+- using the Java Flow API.
+- using the Project Reactor API.
+
+
+Various options for setting up the publisher, used in the case of slow consumers, are presented in the main methods.
